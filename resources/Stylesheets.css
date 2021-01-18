@@ -1,0 +1,82 @@
+.can{
+	-fx-text-fill: black;
+	 -fx-background-color: #DFB951;
+	-fx-font: bold italic 15pt "Times New Roman";
+	 -fx-background-radius: 20;
+	  -fx-effect: dropshadow( one-pass-box , red , 8 , 0.0 , 2 , 0 );
+	}
+	
+	.login{
+	-fx-text-fill: black;
+	 -fx-background-color: #00CC2C;
+	-fx-font: bold italic 15pt "Times New Roman";
+	-fx-background-radius: 20;
+	-fx-effect:  dropshadow( one-pass-box , blue , 8 , 0.0 , 2 , 0 );
+	}
+	
+	.grid{
+		 -fx-background-color: pink;
+		
+	}
+	.label{
+		-fx-text-fill: green;
+		-fx-font: bold italic 10pt "Times New Roman";
+	}
+	
+	.gender{
+		-fx-text-fill: blue;
+	-fx-font: bold italic 15pt "Times New Roman";
+	 -fx-background-radius: 20;
+	  
+	}
+	.text{
+		-fx-text-fill: Cyan;
+	}
+	
+	.name{
+		-fx-text-fill: red;
+		-fx-font: bold italic 30pt "Times New Roman";
+		-fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 60%);
+		 -fx-stroke: black;
+        -fx-stroke-width: 1;
+	}
+	.table{
+	-fx-text-fill: blue;
+	-fx-font: italic 10pt "Times New Roman";
+	-fx-background-color: #00FFFF;
+	 -fx-background-radius: 20;
+	}
+	
+	.button{
+	-fx-text-fill: blue;
+	 -fx-background-color: #DFB951;
+	-fx-font: bold italic 10pt "Times New Roman";
+	 -fx-background-radius: 20;
+	  -fx-effect: dropshadow( one-pass-box , red , 8 , 0.0 , 2 , 0 );
+	  }
+	  .menu{
+	  -fx-text-fill: #FFD700;
+	 -fx-font: bold italic 10pt "Times New Roman";
+	 -fx-background-radius: 20; 	
+	  }
+	  .title{
+	  	-fx-text-fill: blue;
+		-fx-font: bold italic 30pt "Times New Roman";
+	  }
+	  .background{
+		-fx-background-image: url("shop.jpg");
+	}
+	.label1{
+		-fx-text-fill: green;
+		-fx-font: bold italic 50pt "Times New Roman";
+	}
+	.label2{
+		-fx-text-fill: green;
+		-fx-font: bold italic 20pt "Times New Roman";
+	}
+		.label3{
+		-fx-border-radius: 20;
+		-fx-background-radius: 20;
+		-fx-text-fill: green;
+		-fx-font: bold italic 20pt "Times New Roman";
+	}
